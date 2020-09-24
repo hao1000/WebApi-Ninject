@@ -1,0 +1,11 @@
+D:\QLBHWebAPI2_462_Ninject\QLBHRepository\bin\Debug\QLBHRepository.dll.config
+D:\QLBHWebAPI2_462_Ninject\QLBHRepository\bin\Debug\QLBHRepository.dll
+D:\QLBHWebAPI2_462_Ninject\QLBHRepository\bin\Debug\QLBHRepository.pdb
+D:\QLBHWebAPI2_462_Ninject\QLBHRepository\bin\Debug\EntityFramework.dll
+D:\QLBHWebAPI2_462_Ninject\QLBHRepository\bin\Debug\EntityFramework.SqlServer.dll
+D:\QLBHWebAPI2_462_Ninject\QLBHRepository\bin\Debug\EntityFramework.xml
+D:\QLBHWebAPI2_462_Ninject\QLBHRepository\bin\Debug\EntityFramework.SqlServer.xml
+D:\QLBHWebAPI2_462_Ninject\QLBHRepository\obj\Debug\QLBHRepository.csproj.CoreCompileInputs.cache
+D:\QLBHWebAPI2_462_Ninject\QLBHRepository\obj\Debug\QLBHRepository.csproj.CopyComplete
+D:\QLBHWebAPI2_462_Ninject\QLBHRepository\obj\Debug\QLBHRepository.dll
+D:\QLBHWebAPI2_462_Ninject\QLBHRepository\obj\Debug\QLBHRepository.pdb
